@@ -1,0 +1,60 @@
+.navbar{
+background-color: #00ADB5;
+}
+.navbar a{
+color: rgb(255, 255, 255);
+font-size: 20px;
+}
+.dropdown-menu a{
+    color: #00ADB5;
+}
+ .head{
+    color: #00ADB5;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+
+
+.custom{
+    font-size: 20px;
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    background-color: #00ADB5;
+    padding: 5px;
+}
+
+
+label{
+    color: #00ADB5;
+}
+
+
+
+@media screen and (min-width: 576px) and (max-width: 900px) {
+    form .row div{
+
+margin-top: 20px;
+        }
+}
+
+
+.newSection form h1{
+    border-radius:10px ;
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 10px;
+    color: #00ADB5;
+    font-size: 30px;
+}
+
+.cancelSection form h1{
+    border-radius:10px ;
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 10px;
+    color: #00ADB5;
+    font-size: 30px;
+}
+
